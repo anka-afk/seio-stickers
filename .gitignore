@@ -1,0 +1,19 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# Local runtime and semantic index artifacts
+semantic_metadata.json
+semantic_indexes/
+index_manifest.json
+meme_pack_export.json
+
+# Temporary exports and working files
+*.zip
+*.tmp
+*.bak
+*.log
+__pycache__/
