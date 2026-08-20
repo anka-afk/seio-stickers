@@ -22,7 +22,7 @@
 {
   "type": "github",
   "repo": "anka-afk/seio-stickers",
-  "ref": "v2026.08.0",
+  "ref": "v2026.08.1",
   "subpath": "."
 }
 ```

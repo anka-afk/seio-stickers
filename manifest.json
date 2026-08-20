@@ -2,21 +2,21 @@
   "schema_version": 1,
   "id": "seio-stickers",
   "name": "seio-stickers",
-  "version": "2026.08.0",
+  "version": "2026.08.1",
   "description": "基于 camera-2018 整理的 188 个 seio娘动态表情制作的 Meme Manager 表情包。",
   "author": "素材画师：失效药片；资源整理：camera-2018；Meme Manager 适配：anka",
   "homepage": "https://github.com/camera-2018/astrbot-seio-stickers",
   "license": "仅限非商业使用；允许下载、分享与分发（详见 LICENSE-ASSETS.md）",
   "tags": ["seio", "animated", "gif", "non-commercial"],
-  "icon": "previews/cover.webp",
-  "previews": ["previews/overview.webp"],
+  "icon": "previews/cover.jpg",
+  "previews": ["previews/cover.jpg", "previews/overview.webp"],
   "compat": {
     "min_plugin_version": "4.0.0"
   },
   "source": {
     "type": "github",
     "repo": "anka-afk/seio-stickers",
-    "ref": "v2026.08.0",
+    "ref": "v2026.08.1",
     "subpath": "."
   },
   "upstream": {
