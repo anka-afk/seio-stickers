@@ -1,6 +1,8 @@
-# seio-stickers
+# AstrBot娘表情包
 
-这是 `camera-2018/astrbot-seio-stickers` 的 AstrBot Meme Manager 适配包，共包含 188 个动态 GIF。
+收录 188 个 AstrBot娘动态表情，按 15 个聊天语义类别整理，适合日常对话、情绪表达与互动场景。
+
+本项目是 `camera-2018/astrbot-seio-stickers` 的 AstrBot Meme Manager 适配包。
 
 ## 来源
 
@@ -22,7 +24,7 @@
 {
   "type": "github",
   "repo": "anka-afk/seio-stickers",
-  "ref": "v2026.08.1",
+  "ref": "v2026.08.2",
   "subpath": "."
 }
 ```
