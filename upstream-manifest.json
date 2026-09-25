@@ -1,7 +1,7 @@
 {
   "name": "astrbot-seio-stickers",
   "display_name": "AstrBot seio娘表情包",
-  "version": "2026.08",
+  "version": "2026.09",
   "format": "gif-240-500k",
   "description": "240x240 GIF files capped at 500 KB each.",
   "stickers": [
@@ -1320,6 +1320,146 @@
       "path": "stickers/188_茶3.gif",
       "size": 499256,
       "sha256": "e8af8fff585fdced8a1d06058cce9f9e841fcf617e3daf61a818f20221307b6d"
+    },
+    {
+      "id": "189",
+      "name": "书呆子1",
+      "path": "stickers/189_书呆子1.gif",
+      "size": 430724,
+      "sha256": "4b50fd2044279706a91f2203a9fe5c6ef5b1242b24cb1df318d2ad5c34f9f4c4"
+    },
+    {
+      "id": "190",
+      "name": "书呆子2",
+      "path": "stickers/190_书呆子2.gif",
+      "size": 460343,
+      "sha256": "662906a335fb7964991a25a0b9170b08d90b79677abd90c878ad78d2a90f2eee"
+    },
+    {
+      "id": "191",
+      "name": "书呆子3",
+      "path": "stickers/191_书呆子3.gif",
+      "size": 488167,
+      "sha256": "016a5803b2c7b14295ad71d9794152f3c674ac991a6150cd91cb095ddc0661bb"
+    },
+    {
+      "id": "192",
+      "name": "停止",
+      "path": "stickers/192_停止.gif",
+      "size": 405998,
+      "sha256": "567118decb1813a2b7bfcbc63f5412f5bd24b7e89827ddf4b834ebb10b5d2a96"
+    },
+    {
+      "id": "193",
+      "name": "害羞3",
+      "path": "stickers/193_害羞3.gif",
+      "size": 377702,
+      "sha256": "fbd4f5829e764188d5c89f7e2f4ce775f246fc6c376738e83f9e4bafd91946d5"
+    },
+    {
+      "id": "194",
+      "name": "摆动1",
+      "path": "stickers/194_摆动1.gif",
+      "size": 473246,
+      "sha256": "c3bf511224bfde1a27dd353abfcf7f7042c97ff27718b47c448f9c37cabad223"
+    },
+    {
+      "id": "195",
+      "name": "摇摆2",
+      "path": "stickers/195_摇摆2.gif",
+      "size": 382291,
+      "sha256": "82d94e9aa9e0cf145f754c732624ab498fa6b3df12bb976b72de0770d1d779d5"
+    },
+    {
+      "id": "196",
+      "name": "期待3",
+      "path": "stickers/196_期待3.gif",
+      "size": 469764,
+      "sha256": "623fcbf8b39027bde562306b3af357f8e9196629eb0010843aa0d49ea383ed2d"
+    },
+    {
+      "id": "197",
+      "name": "枕头(舔)",
+      "path": "stickers/197_枕头(舔).gif",
+      "size": 326007,
+      "sha256": "cd696876d25981132d8f8ce4541e8cc6dc05467e293f81efb86b36cbc26c4b35"
+    },
+    {
+      "id": "198",
+      "name": "枕头(蹭)",
+      "path": "stickers/198_枕头(蹭).gif",
+      "size": 324641,
+      "sha256": "7255e578c1abcbbfe2afb02fa427a23a56b29ebc206b0493718244939dc7e7a0"
+    },
+    {
+      "id": "199",
+      "name": "枕头(蹭2)",
+      "path": "stickers/199_枕头(蹭2).gif",
+      "size": 323644,
+      "sha256": "dba273eeb50fc1cc6d8e4acb146eaae6ada4fb0371b1347037fe8caddc66c6e2"
+    },
+    {
+      "id": "200",
+      "name": "眨眼1",
+      "path": "stickers/200_眨眼1.gif",
+      "size": 499007,
+      "sha256": "3029a3f7a7473c2257188462a2b1e91a06e3c080b90e07c0f54faae74ff1f43c"
+    },
+    {
+      "id": "201",
+      "name": "舔(冰淇淋)",
+      "path": "stickers/201_舔(冰淇淋).gif",
+      "size": 370210,
+      "sha256": "81714df7d84b513a0943b0bd89e892f42ced16a457caf58e9f3a04a69e8cbb98"
+    },
+    {
+      "id": "202",
+      "name": "舔(棒冰)",
+      "path": "stickers/202_舔(棒冰).gif",
+      "size": 372332,
+      "sha256": "beedc9e94213e99c64600b247e7302f223d5e8463977f402366493a9be745aef"
+    },
+    {
+      "id": "203",
+      "name": "补水",
+      "path": "stickers/203_补水.gif",
+      "size": 175697,
+      "sha256": "eeab882e33bb2f429467288841ede9b27908ad00207d729b667bcac6e758d622"
+    },
+    {
+      "id": "204",
+      "name": "音乐1",
+      "path": "stickers/204_音乐1.gif",
+      "size": 479838,
+      "sha256": "0691d6e965c8c33faf515ff90369faa5fc2af4998ec2c117233aad6fb43829a7"
+    },
+    {
+      "id": "205",
+      "name": "音乐2",
+      "path": "stickers/205_音乐2.gif",
+      "size": 487916,
+      "sha256": "2ba4f7dc8c257f96c922a3e18787e5938a127d9589a955793e214d8d3d977eda"
+    },
+    {
+      "id": "206",
+      "name": "音乐3",
+      "path": "stickers/206_音乐3.gif",
+      "size": 415967,
+      "sha256": "a12b8c1d9fd9f9470c63506efb516aa0fc73677b47447ef1bb0d91ee2cb219bb"
+    },
+    {
+      "id": "207",
+      "name": "饮料(能量饮料1)",
+      "path": "stickers/207_饮料(能量饮料1).gif",
+      "size": 258939,
+      "sha256": "12080caa1cea3601de84f79ba5d9778be079b8141032cc6837b572b1157920e4"
+    },
+    {
+      "id": "208",
+      "name": "饮料(能量饮料2)",
+      "path": "stickers/208_饮料(能量饮料2).gif",
+      "size": 419594,
+      "sha256": "27999d5730d9918beb3cf6f736e31f381a367ea4a30bc034b18ee3a43db47003"
     }
   ]
 }
